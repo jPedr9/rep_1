@@ -14,6 +14,10 @@
 body {
     font-family: var(--fonte0);
     color: var(--cor0);
-    background-color: var(--color1);
+    background-color: var(--cor1);
+}
+#titulo-princ {
+    color: var(--cor3);
+
 
 }
