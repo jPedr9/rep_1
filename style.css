@@ -1,0 +1,19 @@
+
+
+:root {
+    --fonte0: Arial, Helvetica, sans-serif;
+    --fonte1: 'Bebas Neue', monospace;
+    --fonte2: 'Android', sans-serif;
+    --cor0: #c5ebd6;
+    --cor1: #83E1AD;
+    --cor2: #3DDC84;
+    --cor3: #2FA866;
+    --cor4: #1A5C37;
+    --cor5: #063d1e;
+}
+body {
+    font-family: var(--fonte0);
+    color: var(--cor0);
+    background-color: var(--color1);
+
+}
